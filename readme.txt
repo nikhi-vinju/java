@@ -18,3 +18,4 @@ new changes
 added content to test poll scm
 GITScm polling used
 poll 10th dec
+a new poll for every 2mins
